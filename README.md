@@ -3,7 +3,7 @@
 
 ## 谷*哥镜像36个
 
-搜索30个
+### 搜索30个
 
 https://谷歌学术.top
 
@@ -65,7 +65,7 @@ https://g.shanghai.workers.dev
 
 https://startgoogle.startpagina.nl
 
-学术6个
+### 学术6个
 
 https://ac.scmor.com
 
